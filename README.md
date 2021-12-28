@@ -1,4 +1,7 @@
-#Pseudo-random number generators
+## Pseudo-random number generators
 
-In this project you can look on tho how
-some random numbers generators algorithms work
+## Задачи:
+1. Создать метод по алгоритму серединных квадратов 
+2. Создать метод для создания псевдо-случаных чисел по алгоритму линейного конгруэнтного генератора
+3. Сделать массив данных при помощи стандартной реализации Math.random()
+4. Перевести полученные данные для каждого метода в csv формат
